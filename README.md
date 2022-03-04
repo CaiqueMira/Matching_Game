@@ -25,6 +25,10 @@ To be able to run the code you need to install the library conio.c. Follow the t
 #### Dificuldade difícil / Hard difficulty
 ![Tela de jogo difícil](Images/tela_jogo_3.png)
 
+### Tela final / Final screen
+
+![Tela final](Images/Tela_final.png)
+
 
       
 
