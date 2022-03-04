@@ -440,7 +440,12 @@ int tabela(int tam){
 				printf("[%d] ", tabela[i][j]);
 			}
 			else{
-				printf("[%3d] ", tabela[i][j]);				
+				if(tabela[i][j] < 10){
+					printf("[ %d ] ", tabela[i][j]);					
+				}
+				else{
+					printf("[%3d] ", tabela[i][j]);
+				}								
 			}
 		}
 		printf("\n");		
